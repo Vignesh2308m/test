@@ -1,0 +1,38 @@
+-------------Green field and Brown field projects
+1.Green field project
+No existing codebase
+No existing team
+No existing technical dept(Pending tasks)
+
+Design new devops environment, Planning, Tools.
+
+2.Brown field project
+Existing codebase
+Existing team
+Technical dept
+
+Code (or) assets needs to be migrated
+Reevaluate the planning
+Environment needs to be changed
+
+
+-------------Choosing right board for a project
+1. Kanban
+2. Scrum
+
+Kanban can be used in small and quick projects with small team (below 5).
+Scrum can be used in large and long projects with big teams.
+
+Difference between scrum and kanban is scrum have iterations or sprint but in kanban there is no
+timeline rules
+
+----------------Overview on version control
+
+
+
+-----------------What is repository
+
+
+
+-----------------What is issue
+
